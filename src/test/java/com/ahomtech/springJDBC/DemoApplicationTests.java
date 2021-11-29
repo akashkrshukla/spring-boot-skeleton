@@ -1,4 +1,4 @@
-package com.nexttech.springJDBC;
+package com.ahomtech.springJDBC;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
